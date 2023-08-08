@@ -1,42 +1,44 @@
-[
-    {
-        "number": "xx####",
-        "airline": "Airline Logo",
-        "depAP": "DEP",
-        "depT": "##:##",
-        "arrAP": "ARR",
-        "arrT": "##:##"
-    },
-    {
-        "number": "xx####",
-        "airline": "Airline Logo",
-        "depAP": "DEP",
-        "depT": "##:##",
-        "arrAP": "ARR",
-        "arrT": "##:##"
-    },
-    {
-        "number": "xx####",
-        "airline": "Airline Logo",
-        "depAP": "DEP",
-        "depT": "##:##",
-        "arrAP": "ARR",
-        "arrT": "##:##"
-    },
-    {
-        "number": "xx####",
-        "airline": "Airline Logo",
-        "depAP": "DEP",
-        "depT": "##:##",
-        "arrAP": "ARR",
-        "arrT": "##:##"
-    },
-    {
-        "number": "xx####",
-        "airline": "Airline Logo",
-        "depAP": "DEP",
-        "depT": "##:##",
-        "arrAP": "ARR",
-        "arrT": "##:##"
-    }
-]
+{
+    "flights": [
+        {
+            "number": "xx####",
+            "airline": "Airline Logo",
+            "depAP": "DEP",
+            "depT": "##:##",
+            "arrAP": "ARR",
+            "arrT": "##:##"
+        },
+        {
+            "number": "xx####",
+            "airline": "Airline Logo",
+            "depAP": "DEP",
+            "depT": "##:##",
+            "arrAP": "ARR",
+            "arrT": "##:##"
+        },
+        {
+            "number": "xx####",
+            "airline": "Airline Logo",
+            "depAP": "DEP",
+            "depT": "##:##",
+            "arrAP": "ARR",
+            "arrT": "##:##"
+        },
+        {
+            "number": "xx####",
+            "airline": "Airline Logo",
+            "depAP": "DEP",
+            "depT": "##:##",
+            "arrAP": "ARR",
+            "arrT": "##:##"
+        },
+        {
+            "number": "xx####",
+            "airline": "Airline Logo",
+            "depAP": "DEP",
+            "depT": "##:##",
+            "arrAP": "ARR",
+            "arrT": "##:##"
+        }
+    ]
+}
